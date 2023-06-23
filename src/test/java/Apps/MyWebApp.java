@@ -13,7 +13,7 @@ public class MyWebApp {
 	  
 	  String title = driver.getTitle();
 	  
-	  System.out.println("Title is "+title);
+	  System.out.println("Title  "+title);
 
 	  Assert.assertEquals(title, "My N Login Page");
 	  
