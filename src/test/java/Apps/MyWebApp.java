@@ -15,7 +15,7 @@ public class MyWebApp {
 	  
 	  System.out.println("Title is "+title);
 
-	  Assert.assertEquals(title, "Login Page");
+	  Assert.assertEquals(title, "My N Login Page");
 	  
 	  Thread.sleep(2000);
 	  
